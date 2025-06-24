@@ -42,3 +42,5 @@ function App() {
 }
 
 export default App
+
+//neet to update darkMode: "class" in tailwind file which is not done
