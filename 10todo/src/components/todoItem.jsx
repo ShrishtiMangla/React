@@ -13,7 +13,7 @@ function TodoItem({ todo }) {
     }
 
     const toggleComplete = ()=>{
-        toggleCompleted(todo.id);
+        toggleCompleted(todo.id);//it is calling toggleComplete in app.jsx
     }
 
     return (
